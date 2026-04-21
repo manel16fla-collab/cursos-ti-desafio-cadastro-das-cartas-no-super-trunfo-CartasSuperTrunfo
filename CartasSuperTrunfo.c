@@ -7,6 +7,8 @@
 //Teste larissa
 
 int main() {
+    printf("Ola mundo, no codespace!\n");
+    printf("exemplo de edição de codigo!\n");
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
